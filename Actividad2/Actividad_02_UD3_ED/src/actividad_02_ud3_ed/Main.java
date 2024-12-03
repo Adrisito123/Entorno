@@ -16,7 +16,10 @@ import java.util.logging.Logger;
 public class Main {
     static BufferedReader dato = new BufferedReader(new InputStreamReader(System.in));
 
-   
+   /**
+    * 
+    * @param args 
+    */
     public static void main(String[] args) {
         CCuenta cuenta1;
         double saldoActual;
